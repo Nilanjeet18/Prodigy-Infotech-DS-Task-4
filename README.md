@@ -8,6 +8,7 @@ Welcome to my submission for Task 4 of the Data Science Internship at `Prodigy I
 - Pandas
 - Numpy
 - Matplotlip & Seaborn for visualization
+- textblob
 
 
 
